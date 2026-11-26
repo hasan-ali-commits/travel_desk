@@ -1,0 +1,314 @@
+DEMO CORPORATE TRAVEL POLICY
+================================
+
+Document Type: Internal Corporate Policy
+Policy Owner: Human Resources and Administration
+Version: 1.0
+Effective Date: 1 January 2026
+Review Cycle: Annual
+Applicability: All employees and approved contractors
+
+IMPORTANT
+---------
+This is a fictional demonstration policy created for a Retrieval-Augmented
+Generation (RAG) chatbot workshop. It is not a real company's policy and should
+not be used to approve actual travel or expenses.
+
+1. PURPOSE
+----------
+This policy defines the rules for requesting, approving, booking, undertaking,
+and claiming expenses for business travel. It aims to ensure employee safety,
+cost control, consistent approvals, and transparent expense reimbursement.
+
+2. SCOPE
+--------
+This policy applies to employees travelling on approved business for:
+- Client meetings and workshops
+- Conferences, seminars, and training
+- Project delivery and implementation
+- Internal business meetings
+- Other activities approved by the employee's manager
+
+Personal travel, daily commuting, and travel undertaken without business
+approval are outside the scope of this policy.
+
+3. TRAVEL REQUEST AND APPROVAL
+------------------------------
+3.1 Employees must submit a travel request through the company's travel portal
+or the designated travel desk before making any booking.
+
+3.2 The request should include:
+- Business purpose and destination
+- Proposed departure and return dates
+- Expected travel and accommodation costs
+- Project, client, or cost-centre details
+- Any special accessibility or safety requirements
+
+3.3 The employee's reporting manager must approve the business purpose and
+budget before booking.
+
+3.4 International travel requires approval from the reporting manager and the
+Business Unit Head. Finance approval is also required when the estimated cost
+exceeds the approved project or department budget.
+
+3.5 Employees must not approve their own travel requests or expense claims.
+
+4. BOOKING GUIDELINES
+---------------------
+4.1 All air, rail, and hotel bookings should be made through the authorised
+travel desk or approved booking channel.
+
+4.2 Employees should book at least:
+- Domestic travel: 7 calendar days in advance, where practical
+- International travel: 21 calendar days in advance, where practical
+
+4.3 Economy class is the standard class for domestic and international flights.
+Any exception requires prior written approval from the Business Unit Head.
+
+4.4 Employees should select the lowest logical fare that meets business
+requirements. A reasonable difference in price may be accepted for safer
+connections, practical arrival times, or reduced overall journey time.
+
+4.5 Flight bookings should include reasonable connection times. Employees
+should avoid unnecessary stopovers and premium add-ons.
+
+4.6 Rail travel should use the class approved for the employee's grade or
+business unit. If no grade-based entitlement is published, the reporting
+manager must approve the class before booking.
+
+4.7 Employees must not split bookings or change travel details to bypass
+approval limits.
+
+5. HOTEL AND ACCOMMODATION
+--------------------------
+5.1 Employees should use company-preferred hotels where available.
+
+5.2 The following nightly limits are illustrative maximums for this demo policy:
+
+- Tier 1 cities (for example, Mumbai, Delhi, Bengaluru, Hyderabad, Chennai):
+  INR 6,000 per night, excluding applicable taxes
+- Tier 2 cities: INR 4,500 per night, excluding applicable taxes
+- Other locations: INR 3,500 per night, excluding applicable taxes
+
+5.3 A higher limit may be approved when preferred hotels are unavailable,
+during major events, or when safety and location requirements justify the cost.
+Prior written approval from the reporting manager and Finance is required.
+
+5.4 Hotel bills must show the employee's name, stay dates, and itemised charges
+where available.
+
+5.5 Personal entertainment, minibar purchases, spa services, and personal
+guest expenses are not reimbursable.
+
+6. LOCAL TRANSPORTATION
+-----------------------
+6.1 Employees should use safe, economical transportation appropriate to the
+location and business schedule.
+
+6.2 Airport transfers may be booked through the approved travel desk or claimed
+with a valid receipt.
+
+6.3 App-based taxis, metered taxis, and public transportation are reimbursable
+when used for approved business travel.
+
+6.4 Rental cars require prior manager approval. The employee must hold a valid
+driving licence and comply with local traffic and insurance requirements.
+
+6.5 Fuel, tolls, and parking charges for an approved rental or personal vehicle
+may be reimbursed when supported by receipts and business-travel details.
+
+7. MEALS AND INCIDENTAL EXPENSES
+--------------------------------
+7.1 Reasonable meal expenses during approved business travel are reimbursable
+within the following illustrative daily limits:
+
+- Domestic travel: INR 1,200 per day
+- International travel: USD 40 per day, or the locally approved equivalent
+
+7.2 Meal claims must be supported by itemised receipts where available.
+
+7.3 Alcohol, tobacco, personal shopping, and expenses for family members or
+other unauthorised guests are not reimbursable.
+
+7.4 Tips are reimbursable only when customary, reasonable, and permitted by
+local rules.
+
+7.5 Employees must not claim a meal expense if the same meal was provided and
+paid for by the company, event organiser, or client.
+
+8. TRAVEL ADVANCES
+------------------
+8.1 Employees may request a travel advance for approved business travel when
+needed.
+
+8.2 The advance request must be approved by the reporting manager and Finance.
+
+8.3 Employees must reconcile the advance through an expense claim within
+7 calendar days after completing the trip.
+
+8.4 Any unused advance must be returned to the company within the same
+7-calendar-day period.
+
+9. EXPENSE CLAIMS AND REIMBURSEMENT
+-----------------------------------
+9.1 Employees must submit expense claims within 10 calendar days after
+completing the trip.
+
+9.2 Each claim must include:
+- Approved travel request or reference number
+- Dates and business purpose of travel
+- Itemised expense details and currency
+- Original or digital receipts, where applicable
+- Proof of payment when requested
+- Project or cost-centre information
+
+9.3 Claims must be accurate, complete, and submitted by the employee who
+incurred the expense.
+
+9.4 Finance will review claims for policy compliance and may request
+clarification or additional documents.
+
+9.5 Approved claims will normally be reimbursed within 15 business days after
+Finance receives a complete and compliant submission.
+
+9.6 Claims submitted after the deadline may be rejected unless the employee
+provides a valid reason and obtains an exception approval.
+
+10. CANCELLATIONS AND CHANGES
+-----------------------------
+10.1 Employees must notify the travel desk and reporting manager as soon as a
+business trip is cancelled or changed.
+
+10.2 Refundable or changeable fares should be preferred when the business
+schedule is uncertain and the price difference is reasonable.
+
+10.3 Cancellation charges caused by a business requirement or circumstances
+outside the employee's control may be reimbursed with manager approval.
+
+10.4 Charges caused by an employee's personal preference or failure to follow
+the approved itinerary may not be reimbursed.
+
+10.5 Any unused tickets, hotel credits, or refunds must be reported to the
+travel desk and must not be retained for personal use.
+
+11. INTERNATIONAL TRAVEL
+------------------------
+11.1 International travel requires the approvals described in Section 3.4.
+
+11.2 Employees are responsible for providing accurate passport details and
+supporting documents in time for visa processing.
+
+11.3 Visa fees, mandatory business-travel insurance, and required vaccinations
+may be reimbursed when approved in advance and supported by receipts.
+
+11.4 Employees must comply with immigration, customs, local laws, and company
+security requirements.
+
+11.5 Employees should review destination-specific health, safety, and security
+guidance before departure.
+
+12. HEALTH, SAFETY, AND SECURITY
+--------------------------------
+12.1 Employee safety takes priority over cost savings.
+
+12.2 Employees should use reputable transport providers and avoid unsafe
+locations or travel arrangements.
+
+12.3 Employees must promptly report accidents, illness, lost travel documents,
+security incidents, or other emergencies to their manager and the designated
+company contact.
+
+12.4 Employees travelling internationally should keep emergency contact
+details and copies of essential travel documents accessible.
+
+12.5 Employees must follow applicable company travel-security instructions,
+including device and data-protection requirements.
+
+13. NON-REIMBURSABLE EXPENSES
+-----------------------------
+The following expenses are not reimbursable unless a specific written
+exception is approved:
+- Personal holidays, sightseeing, and leisure activities
+- Expenses for family members or personal guests
+- Alcohol and tobacco
+- Personal clothing, gifts, and shopping
+- Traffic fines and parking penalties
+- Lost personal items
+- Hotel movies, gaming, spa, and minibar charges
+- Duplicate claims or expenses already paid by another party
+- Expenses without adequate supporting documentation, where documentation is
+  required
+
+14. POLICY EXCEPTIONS
+---------------------
+14.1 Exceptions must be requested in writing before the expense is incurred,
+where practical.
+
+14.2 The reporting manager and the relevant Business Unit Head must approve
+exceptions. Finance approval is required for budget or reimbursement
+exceptions.
+
+14.3 An exception approval must state the business reason, estimated cost, and
+scope of the exception.
+
+14.4 Verbal approval alone is not sufficient evidence for reimbursement.
+
+15. NON-COMPLIANCE
+------------------
+15.1 Claims that are inaccurate, duplicated, unsupported, or inconsistent
+with this policy may be rejected.
+
+15.2 Suspected misuse of company funds may be referred to HR, Finance, or the
+appropriate internal investigation team.
+
+15.3 Deliberate misrepresentation may result in disciplinary action in
+accordance with company procedures.
+
+16. CONTACT AND SUPPORT
+-----------------------
+For travel bookings, contact the authorised Travel Desk.
+For policy interpretation, contact Human Resources.
+For expense claims, reimbursements, and advances, contact Finance.
+
+Employees should include their employee ID, travel request number, trip dates,
+and a brief description of the issue when raising a support request.
+
+17. QUICK REFERENCE
+-------------------
+Question: Who approves domestic business travel?
+Answer: The employee's reporting manager must approve the request before
+booking.
+
+Question: How far in advance should domestic travel be booked?
+Answer: At least 7 calendar days in advance, where practical.
+
+Question: What is the standard flight class?
+Answer: Economy class. Exceptions require prior written approval from the
+Business Unit Head.
+
+Question: What is the hotel limit in a Tier 1 city?
+Answer: INR 6,000 per night, excluding applicable taxes, under this demo
+policy. Exceptions require prior written approval.
+
+Question: What is the domestic daily meal limit?
+Answer: INR 1,200 per day under this demo policy.
+
+Question: When must an employee submit an expense claim?
+Answer: Within 10 calendar days after completing the trip.
+
+Question: How soon should an approved claim be reimbursed?
+Answer: Normally within 15 business days after Finance receives a complete
+and compliant submission.
+
+Question: Can employees claim alcohol or minibar expenses?
+Answer: No. These are non-reimbursable under this demo policy.
+
+Question: How soon must a travel advance be reconciled?
+Answer: Within 7 calendar days after completing the trip.
+
+Question: Who approves international travel?
+Answer: The reporting manager and Business Unit Head. Finance approval is
+also required when the estimated cost exceeds the approved budget.
+
+END OF POLICY
+=============
